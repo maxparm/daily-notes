@@ -28,7 +28,7 @@
     "nodemon": "1.11.0",
     "quill": "1.2.2",
     "raven-js": "3.11.0",
-    "sequelize": "3.24.4",
+    "sequelize": "5.19.1",
     "tether-shepherd": "1.8.1",
     "validator": "6.2.0",
     "visibilityjs": "1.2.4",
