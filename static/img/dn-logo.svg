@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="18px" viewBox="0 0 30 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(-364.000000, -227.000000)" fill="#39434D">
+            <g id="Group-13" transform="translate(270.000000, 227.000000)">
+                <g id="Group" transform="translate(94.000000, 0.000000)">
+                    <path d="M25.3403116,12.5973075 L25.3403116,1.14616009 C25.3403116,0.395454637 24.7358756,-0.207596126 23.990266,-0.207596126 L22.6359899,-0.207596126 C21.8841802,-0.207596126 21.2859443,0.398501176 21.2859443,1.14616009 L21.2859443,12.5973075 L25.3403116,12.5973075 Z M25.3403116,13.6216998 L25.3403116,13.6433867 C25.3403116,14.7629218 24.7392699,16.3507979 24.0007922,17.1866741 L23.2623187,18.0225456 L22.5932085,17.226245 C21.8712264,16.3670221 21.2859443,14.771316 21.2859443,13.6433867 L21.2859443,13.6216998 L25.3403116,13.6216998 Z" id="Combined-Shape" transform="translate(23.313128, 8.907475) rotate(-330.000000) translate(-23.313128, -8.907475) "></path>
+                    <rect id="Rectangle-3" x="0" y="14" width="14.7795082" height="3.39477124" rx="0.672"></rect>
+                    <rect id="Rectangle-3-Copy" x="5" y="8" width="9.40514157" height="3.39477124" rx="0.672"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
